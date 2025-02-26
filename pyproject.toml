@@ -1,0 +1,17 @@
+[project]
+name = "inbox-fucked-up"
+version = "0.1.0"
+description = "Find out who fucks up your mailbox!"
+readme = "README.md"
+authors = [
+    { name = "--help", email = "mert.bozkirr@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+inbox-fucked-up = "src.main:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
