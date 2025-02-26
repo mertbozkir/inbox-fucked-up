@@ -1,9 +1,11 @@
 # 📧 Inbox-Fucked-Up
 
+**Take back control of your inbox by finding out who's flooding it with crap!**
+
 <img width="920" alt="image" src="https://github.com/user-attachments/assets/c9c921a1-b7d3-46f6-9375-819e18a6f62f" />
 
 
-**Take back control of your inbox by finding out who's flooding it with crap!**
+
 
 A simple script to analyze your `.mbox` email exports and show you what to unsubscribe from.
 
